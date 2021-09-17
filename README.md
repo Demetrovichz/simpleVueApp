@@ -11,25 +11,3 @@ npm run buil // Сбидить проект.
 ```
 Так - же есть пример работы с GET запросами через библеотеку AXIOS
 ```
-
-### Compiles and hot-reloads for development
-
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
